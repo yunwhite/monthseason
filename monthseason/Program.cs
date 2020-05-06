@@ -37,7 +37,7 @@ namespace monthseason
                     Console.WriteLine("가을입니다");
                     break;
                 default:
-                    Console.WriteLine("대체 어느 행성에 살고 계십니까?");
+                    Console.WriteLine("잘못 입력했습니다");
                     break;
             }
         }
